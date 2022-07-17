@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp矩阵计算器可视化", "CSharp矩阵计算器可视化\CSharp矩阵计算器可视化.csproj", "{61DF3A97-A020-4A7F-A587-04B0236867FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DF3A97-A020-4A7F-A587-04B0236867FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DF3A97-A020-4A7F-A587-04B0236867FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DF3A97-A020-4A7F-A587-04B0236867FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DF3A97-A020-4A7F-A587-04B0236867FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0954DBE3-920C-4877-A8C0-7C499570AFFA}
+	EndGlobalSection
+EndGlobal
