@@ -18,14 +18,7 @@ namespace CSharp矩阵计算器可视化
             warning_kind = 0;
             InitializeComponent();
         }
-        //public Warning_Form(int a)
-        //{
-        //    if (a == 1)
-        //    {
-        //        label1.Text = "请检查相应矩阵是否输入！";
-        //    }
-        //    InitializeComponent();
-        //}
+        
         private void button1_Click_1(object sender, EventArgs e)
         {
             Close();
